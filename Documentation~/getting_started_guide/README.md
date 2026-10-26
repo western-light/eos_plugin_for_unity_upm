@@ -133,7 +133,7 @@ For more information on Applications, see [Epic's documentation on Applications 
 
 With a Client Policy, Client, and Application created, you're ready to start adding the EOS Plugin for Unity to your game.
 Follow [our documentation for adding the plugin to your project](/Documentation~/add_plugin.md).
-Once successfully included, follow [the guidance on Importing the Samples](Documentation~/samples.md).
+Once successfully included, follow [the guidance on Importing the Samples](/Documentation~/samples.md).
 In the EOS Plugin for Unity project, the provided code with the plugin will give you the ability to use EOS SDK's interfaces using a convenient C# wrapper.
 The Samples come with scenes that demonstrate the usage of the EOS Plugin for Unity's Manager classes for each Sample's domain.
 
